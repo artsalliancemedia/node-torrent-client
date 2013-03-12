@@ -1,7 +1,7 @@
 {
     "name": "aam-node-torrent-client",
     "description": "Bittorrent client for node.js.",
-    "version": "0.2.0",
+    "version": "0.2.2",
     "homepage" : "http://github.com/superafroman/node-torrent",
     "author": "Max Stewart <max.stewart@superafroman.com>",
     "main": "lib/client.js",
